@@ -1,8 +1,8 @@
 ### Hi everybody !
 
-- 🔭 I’m currently working on SpyCraft.
-  Want to know more about ? Click on the link !
-  -> https://spycraft-website.web.app/ <-
+🔭 I’m currently working on SpyCraft.
+Want to know more about ? Click on the link !
+-> https://spycraft-website.web.app/ <-
 
 
 <!--

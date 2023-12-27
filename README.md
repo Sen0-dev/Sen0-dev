@@ -4,7 +4,7 @@
    - Want to know more about ? Click on the link !
       - -> https://spycraft-website.web.app/ <-
 
-- 📫 How to reach me: sen0.guide@gmail.com
+📫 How to reach me: sen0.guide@gmail.com
 
 
 <!--

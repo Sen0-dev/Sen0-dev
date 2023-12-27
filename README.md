@@ -1,8 +1,8 @@
 ### Hi !
 
-- 🔭 I’m currently working on SpyCraft.
+🔭 I’m currently working on SpyCraft.
    - Want to know more about ? Click on the link !
-      - -> https://spycraft-website.web.app/ <-
+   -> https://spycraft-website.web.app/ <-
 
 📫 How to reach me: sen0.guide@gmail.com
 

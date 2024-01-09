@@ -25,6 +25,8 @@ https://docs.flutter.dev/reference/flutter-cli
 
 - example1/lib/main.dart | Ligne 49
 - ![image](https://github.com/Sen0-dev/Sen0-dev/assets/101296112/f2fe4162-7007-4a4c-9f4f-d5c591253d6c)
+- Navigator.push(...) permet de naviguer entre différentes interfaces en ajoutant une nouvelle route à la pile. (En l'occurence naviguer vers  CounterExample())
+- Contrairement à Navigator.pop(...) qui retire retire la route de la pile.
 
 
 

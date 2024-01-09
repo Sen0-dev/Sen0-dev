@@ -24,7 +24,7 @@ https://docs.flutter.dev/reference/flutter-cli
 ## Navigation entre différentes interfaces
 
 * example1/lib/main.dart | Ligne 49
-![image](https://github.com/Sen0-dev/Sen0-dev/assets/101296112/f2fe4162-7007-4a4c-9f4f-d5c591253d6c)
+* ![image](https://github.com/Sen0-dev/Sen0-dev/assets/101296112/f2fe4162-7007-4a4c-9f4f-d5c591253d6c)
 
 
 

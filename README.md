@@ -1,10 +1,13 @@
-### Hi !
+# Hi !
 
-🔭 I’m currently working on SpyCraft.
-   - Want to know more about ? Click on the link !
-   - -> https://spycraft-website.web.app/ <-
+I’m currently working on SpyCraft.
+Want to know more about ? Click on the link !
+https://spycraft-website.web.app/ <-
 
-📫 How to reach me: sen0.guide@gmail.com
+How to reach me: sen0.guide@gmail.com
+
+## Quelques commandes Flutter de base
+https://docs.flutter.dev/reference/flutter-cli
 
 
 <!--
